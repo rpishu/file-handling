@@ -57,3 +57,4 @@ codequoi
 Show all
 
 ##OUTPUT:
+![Image](https://github.com/user-attachments/assets/7eb7af60-14e1-42d0-860c-f2017266c031)
